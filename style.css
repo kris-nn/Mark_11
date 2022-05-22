@@ -1,0 +1,29 @@
+body {
+    font-family: Comic Sans MS;
+    color: white;
+    background-color: rgb(3, 0, 3);
+}
+header {
+    text-shadow: 0px 0px 20px white;
+}
+p {
+    text-shadow: 0px 0px 20px white;
+    text-align: center;
+}
+h1 {
+    text-shadow: 0px 0px 20px white;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    margin-left: 100px;
+}
+.pppp{
+    box-shadow: 0px 0px 10px white;
+    margin-left: 100px;
+}
+h2 {
+    text-shadow: 0px 0px 20px rgb(255, 0, 0);
+    color: red;
+    text-align: center;
+
